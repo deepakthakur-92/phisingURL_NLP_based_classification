@@ -1,7 +1,10 @@
 numpy 
 pandas
 seaborn
+matplotlib
 urllib3
 nltk
+regex
 scikit-learn
+tensorflow==2.9.2
 wordcloud
