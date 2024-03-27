@@ -1,4 +1,7 @@
 numpy 
 pandas
-urllib
+seaborn
+urllib3
+nltk
+scikit-learn
 wordcloud
